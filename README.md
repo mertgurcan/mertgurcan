@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">iOS Developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mertgurcan&label=Profile%20views&color=0e75b6&style=flat" alt="mertgurcan" /> </p>
-
 - 🔭 I’m currently working on [Akakce](akakce.com)
 
 - 🌱 I’m currently learning **anything new :D**
