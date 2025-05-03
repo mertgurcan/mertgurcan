@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">iOS Developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Akakce](akakce.com)
+- 🔭 I’m currently working on Nesine
 
 - 🌱 I’m currently learning **anything new :D**
 
